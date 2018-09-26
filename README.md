@@ -6,7 +6,7 @@ In this notebook, we will analyze the results of food inspections in Chicago fro
 
 Inspections are performed by staff from the Chicago Department of Public Health’s Food Protection Program. They are done using a standardized procedure. The results of the inspection are inputted into a database, then reviewed and approved by a State of Illinois Licensed Environmental Health Practitioner (LEHP). A subset of data elements are extracted from this database and downloaded into this data portal.
 
-**Link to download the dataset(csv):** [Food_Inspections.csv](https://healthdata.gov/dataset/food-inspections).
+**Link to download the dataset (.csv):** [Food_Inspections.csv](https://healthdata.gov/dataset/food-inspections).
 
 **Estimated amount of time to complete notebook:** 3 hours.
 
